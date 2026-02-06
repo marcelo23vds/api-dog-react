@@ -3,7 +3,7 @@
 # React
 
 O **React** é uma biblioteca JavaScript de código aberto, criada pelo Facebook, utilizada para construir **interfaces de usuário** de forma eficiente e escalável. Ele é baseado em componentes reutilizáveis, utiliza o Virtual DOM para otimizar atualizações na interface e segue um modelo declarativo, facilitando a manutenção e a previsibilidade do código.
-O React é um dos frameworks mais populares por ser fácil de usar, altamente flexível e escalável, e é usado por muitas empresas de tecnologia, incluindo o Facebook, Instagram e Airbnb.  
+O React é um dos "frameworks" mais populares por ser fácil de usar, altamente flexível e escalável, e é usado por muitas empresas de tecnologia, incluindo o Facebook, Instagram e Airbnb.  
 <div align="center">
   <img width="140px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -188,5 +188,6 @@ Este projeto foi construído para demonstrar o uso de React com tipagem estátic
 [Marcelo Vieira](<https://www.linkedin.com/in/marcelovieirasilva/>)  
 [Nicolas dos Santos](<https://www.linkedin.com/in/nicolas-durao//>)  
 [Pedro Henrique](<https://github.com/ghpedro16/>)  
+
 
 
