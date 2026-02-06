@@ -76,7 +76,7 @@ O React é uma ferramenta poderosa, mas seu uso em contextos inadequados introdu
 | Cenário | Motivo Principal | Melhor Alternativa |
 | :--- | :--- | :--- |
 | **Landing Pages** | Peso do bundle desnecessário | HTML/CSS Puro |
-| **Projetos Pequenos** | Muita configuração | JS Vanilla |
+| **Projetos Pequenos** | Muita configuração | Vanilla JS |
 | **Dispositivos Limitados** | Alto consumo de memória | Vanilla JS |
 | **Projetos de Larga Escala** | Fragmentação de bibliotecas | Angular |
 
@@ -188,4 +188,5 @@ Este projeto foi construído para demonstrar o uso de React com tipagem estátic
 [Marcelo Vieira](<https://www.linkedin.com/in/marcelovieirasilva/>)  
 [Nicolas dos Santos](<https://www.linkedin.com/in/nicolas-durao//>)  
 [Pedro Henrique](<https://github.com/ghpedro16/>)  
+
 
